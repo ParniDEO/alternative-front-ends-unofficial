@@ -1,7 +1,7 @@
 # alternative-front-ends-unofficial
 Alternatives open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) This will be upda ted if i find more.
 
-This is a fork of the alternative-front-ends, while the original didn't change for a year i've decided to fork it and add one of them if i find more
+This is a fork of the alternative-front-ends, while the original didn't added a frontend for a year i've decided to fork it and add one of them if i find more
 
 ## Call to Action
 - Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
