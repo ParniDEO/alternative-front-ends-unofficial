@@ -1,9 +1,14 @@
-# alternative-front-ends
-Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
+# alternative-front-ends-unofficial
+Alternatives open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) This will be upda ted if i find more.
+
+This is a fork of the alternative-front-ends, while the original didn't change for a year i've decided to fork it and add one of them if i find more
 
 ## Call to Action
 - Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
 - Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+
+## Why the original is outdated?
+Mendel5 doesn't have time to add many frontends. I've forked this to add as many as I can. Let me know if I've added a frontend that shouldn't be there. I'll remove it.
 
 ## Contents
 - [YouTube](#youtube)
@@ -131,6 +136,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui): Cross-platform front-end GUI of the popular youtube-dl written in wxPython
 
+- [Materialious](https://github.com/Materialious/Materialious): A Modern material design for Invidious, Has Sponsorblock, Return YouTube Dislikes and Dearrow built-in 
+
 ### YouTube Music
 
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop): Cross-platform (Windows, Mac, and Linux) desktop app for YouTube Music. Has a (proprietary?) remote control app for Android
@@ -149,7 +156,6 @@ Overview of alternative open source front-ends for popular internet platforms (e
   - Public instances: https://github.com/zedeus/nitter/wiki/Instances
   - Example: Troy Hunt on [Twitter](https://twitter.com/troyhunt) and [Nitter](https://nitter.net/troyhunt)
 
-- [Shitter](https://github.com/nuclearfog/Shitter): Android, alternative front-end for Twitter, built with Java
 
 - [Harpy](https://github.com/robertodoering/harpy): Android, alternative front-end for Twitter, built with Flutter/Dart
 
@@ -268,6 +274,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui): Multi platform Twitch.tv browser for Streamlink
 
+- [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch): A lightweight, privacy-respecting frontend for Twitch.
+
 - [Twire](https://github.com/twireapp/Twire): Alternative and open source Twitch client for Android
 
 - [Xtra](https://github.com/crackededed/Xtra): Twitch player and browser for Android
@@ -278,6 +286,8 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 - [openasar](https://github.com/GooseMod/OpenAsar): An open-source alternative of Discord desktop's app.asar
+- [Vesktop](https://github.com/Vencord/Vesktop): An light discord app to give better performance and improve linux support
+- [WebCord](https://github.com/Vencord/Vesktop): A client implemented without the Discord API, based on Discord and SpaceBar.
 
 ### Google Search
 
@@ -291,6 +301,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [LibreX](https://github.com/hnhx/librex): Privacy respecting free meta search engine (free as in freedom)
   - Small and simple meta search engine, fetches and anonymizes results from Google only, has API support, allows redirects to Invidious/ Bibliogram/ Nitter/ Libreddit
+ 
+- [Startpage](https://www.startpage.com/): Search engine that provides Google search results while protecting user privacy by not storing personal information or search data and removing all trackers.
+ 
+- [4get](https://git.lolcat.ca/lolcat/4get): A proxy search engine, some of them has captcha
 
 ### Google Translate
 
@@ -423,6 +437,10 @@ Overview of alternative open source front-ends for popular internet platforms (e
 
 - [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
   - Public instances: https://codeberg.org/librarian/librarian#instances
+ 
+- [Breezewiki](https://breezewiki.com/): Ad-free, clean-page, open-source fandom wiki frontend
+
+- [Priviblur](https://github.com/syeopite/priviblur): A privacy-focused, modern-designed alternative to Tumblr
 
 ## Redirection
 
