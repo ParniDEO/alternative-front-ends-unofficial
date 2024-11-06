@@ -287,7 +287,7 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
 - [openasar](https://github.com/GooseMod/OpenAsar): An open-source alternative of Discord desktop's app.asar
 - [Vesktop](https://github.com/Vencord/Vesktop): An light discord app to give better performance and improve linux support
-- [WebCord](https://github.com/Vencord/Vesktop): A client implemented without the Discord API, based on Discord and SpaceBar.
+- [WebCord](https://github.com/SpacingBat3/WebCord): A client implemented without the Discord API, based on Discord and SpaceBar.
 
 ### Google Search
 
