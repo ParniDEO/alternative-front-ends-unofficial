@@ -43,7 +43,7 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 ## Overview
 
 ### YouTube
-
+**NOTE:** Some of them may not work because youtube is trying to take them down, it's better to host them  for yourself rather than using a public Instances.
 - [Invidious](https://github.com/iv-org/invidious): Invidious is an alternative front-end to YouTube - Lightweight, no ads, no tracking, no JavaScript required
   - Home page: https://invidious.io
   - Invidious instances: https://docs.invidious.io/instances/
@@ -220,8 +220,9 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 
 ### TikTok
 
-- [ProxiTok](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
-  - Official instance: https://proxitok.pabloferreiro.es/
+  - [StickTock](https://github.com/PrivacySafe/sticktock): FOSS Tiktok for anyone who just wants to share tiktoks without the tiktok app or the official site.
+
+  - [OffTikTok](https://github.com/MarsHeer/offtiktok): Same as the top one.
 
 ### Imgur
 
