@@ -1,11 +1,11 @@
 # alternative-front-ends-unofficial
-Alternatives open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) This will be upda ted if i find more.
+Alternatives open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) This will be updated if i find more.
 
 This is a fork of the alternative-front-ends, while the original didn't added a frontend for a year i've decided to fork it and add one of them if i find more
 
 ## Call to Action
 - Do you know any other **free/open-source** projects that are not included in the overview yet? (front ends, alternatives to websites, apps, etc.)
-- Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new free/open-source projects to add.
+- Just create an [issue](https://github.com/mendel5/alternative-front-ends/issues) and let me know. I'm always looking for new FOSS projects to add.
 
 ## Why the original is outdated?
 Mendel5 doesn't have time to add many frontends. I've forked this to add as many as I can. Let me know if I've added a frontend that shouldn't be there. I'll remove it.
@@ -286,9 +286,14 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 ### Discord
 
 - [gtkcord4](https://github.com/diamondburned/gtkcord4): A lightweight Discord client written in Golang which uses GTK3 for the user interface
+
 - [openasar](https://github.com/GooseMod/OpenAsar): An open-source alternative of Discord desktop's app.asar
+
 - [Vesktop](https://github.com/Vencord/Vesktop): An light discord app to give better performance and improve linux support
+
 - [WebCord](https://github.com/SpacingBat3/WebCord): A client implemented without the Discord API, based on Discord and SpaceBar.
+
+- [LegCord](https://github.com/Legcord/Legcord): A client that keeps everything lightweight, Have mods built-in, Made for privacy and much more stable
 
 ### Google Search
 
