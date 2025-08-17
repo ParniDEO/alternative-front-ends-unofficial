@@ -336,8 +336,6 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
 
-- [Frost](https://github.com/AllanWang/Frost-for-Facebook): An extensive and functional third party app for Facebook (Android app)
-
 ### Facebook Messenger
 
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
