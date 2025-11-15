@@ -218,6 +218,8 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 
 - [Roffline](https://github.com/Darkle/Roffline): A self-hosted offline Reddit server. It allows you to browse Reddit posts (including any media in the post) while offline. It is targeted at people that have intermittent internet
 
+- [Viewer-for-reddit](https://github.com/gregrickaby/viewer-for-reddit): Clean and distraction-free to browse reddit with no ads.
+
 ### TikTok
 
   - [StickTock](https://github.com/PrivacySafe/sticktock): FOSS Tiktok for anyone who just wants to share tiktoks without the tiktok app or the official site.
@@ -336,6 +338,8 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 
 - [SlimSocial](https://github.com/rignaneseleo/SlimSocial-for-Facebook): Android, alternative front-end for Facebook, built with Java
 
+- [Nobook](https://github.com/ycngmn/Nobook): Android, lightweight to browse facebook.
+
 ### Facebook Messenger
 
 - [Caprine](https://github.com/sindresorhus/caprine): Unofficial and privacy-focused Facebook Messenger app with many useful features
@@ -436,7 +440,7 @@ Mendel5 doesn't have time to add many frontends. I've forked this to add as many
 - [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox): Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more
 
 - [Wikiless](https://github.com/Metastem/wikiless): A free open source alternative Wikipedia front-end focused on privacy
-  - Official instance: https://wikiless.org/
+  - Official instance: https://wikiless.com/
   - Public instances: https://github.com/Metastem/wikiless
 
 - [Librarian](https://codeberg.org/librarian/librarian): Alternative frontend for LBRY / Odysee.com
